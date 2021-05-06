@@ -1,7 +1,3 @@
-#Hi, I’m @Henodude
-That's really all I have to say ._.
+#Hi, I’m Henodude
 
-<!---
-Henodude/Henodude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like game development like the [godot game engine](https://godotengine.org/). That's really all I have to say . _ .
