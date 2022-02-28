@@ -1,3 +1,2 @@
 # Hi, I’m Henodude
-
-That's really all I have to say 😐
+I don't really have anything to say here
